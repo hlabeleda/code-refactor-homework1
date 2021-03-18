@@ -3,4 +3,6 @@ This is homeowwork week 1, code refactor.  Updated index.html and placed semanti
 
 Updated style.css with styling notes and some consolidated styling.
 
+https://hlabeleda.github.io/code-refactor-homework1/
+
 ![screenshot of homework page](images/homework1_refactor.jpg)
